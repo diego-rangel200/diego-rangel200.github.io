@@ -4,8 +4,13 @@
 }
 h1
 {
-	text-align: left;
+	text-align: center;
 	color: var(--favcolor);
 	background-color: (black);
 	font-size: 40pt;
+}
+p
+{
+	font-family:Times-New-Roman;
+	text-allign: left;
 }
