@@ -14,3 +14,9 @@ p
 	font-family:Times-New-Roman;
 	text-allign: left;
 }
+table
+{
+	background-color: black;
+	text-color: white;
+}
+	
