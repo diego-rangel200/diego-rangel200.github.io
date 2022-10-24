@@ -1,0 +1,11 @@
+:root
+{
+	--favcolor: rbg(34,139,34)
+}
+h1
+{
+	text-align: left;
+	color: var(--favcolor);
+	background-color: (black);
+	font-size: 40pt;
+}
