@@ -20,4 +20,15 @@ table
 	background-color: black;
 	text-color: white;
 }
+img 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img 
+{
+  border-radius: 8px;
+}
 	
