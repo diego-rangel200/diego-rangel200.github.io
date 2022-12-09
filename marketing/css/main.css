@@ -1,0 +1,29 @@
+*
+body {
+	background-color: black;
+}
+h1 {
+	background-color: lightblue;
+	color: black;
+	text-align: center;
+}
+p{
+  margin-up: 50px;
+  color: white;
+}
+h2{
+  color: black;
+  background-color: lightblue;
+  text-align: center;
+}
+ul{
+ color: white;
+}
+img 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 500px;
+}
